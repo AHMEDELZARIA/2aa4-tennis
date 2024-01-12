@@ -35,6 +35,7 @@ public class Main {
         logger.info("**** Starting game");
         logger.debug("** TODO...");
         logger.info("** Closing Tennis Counter Assistant");
+        System.out.println();
     }
 
 
